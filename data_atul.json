@@ -1,0 +1,8 @@
+{
+  "name": "Atul Gupta",
+  "location": "Lucknow",
+  "skills": {
+    "programming": ["C", "C++", "Java"]
+  },
+  "sports": "Basketball"
+}
